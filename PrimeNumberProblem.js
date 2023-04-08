@@ -66,12 +66,6 @@ function isPrime(floorNumber){
 
     return prime;
 }
-    
-
-    //test if any digit is prime
-
-    //if the above two tests are passed add it to the legal floors array
-
 
 //print out the legal floors
 console.log("There are " +legalFloors.length+" legal floors");
